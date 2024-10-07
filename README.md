@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Drowbott
 - 👀 I’m interested in developing 3D modeling and coding. I'm fairly new and I want to gain as much experience as I can so that I can further future ideas and bring them into existence.
 - 🌱 I’m currently learning Model ingestion and general coding.
+- I am enrolled in a Software Development program and I'm loving it.
 - 💞️ I’m looking to collaborate on anything that will help me to move forward in my professional career.
 - 📫 How to reach me daniel_rowbottom@live.ca
 
